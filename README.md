@@ -15,3 +15,7 @@ Aiden Schmeling
 
 - [Understanding map coordinates](https://github.com/AidenSchmeling/gis-project-portfolio-geo242/blob/main/map-coordinate-basics/understanding-coordinates.ipynb)
 - [Georeference a 1960s Miami University campus map](https://github.com/AidenSchmeling/gis-project-portfolio-geo242/blob/main/map-coordinate-basics/georeferencing.ipynb)
+
+
+## Raster Image
+- [Landsat bands](https://github.com/AidenSchmeling/gis-project-portfolio-geo242/blob/main/raster-image/understand-landsat-bands.ipynb)
