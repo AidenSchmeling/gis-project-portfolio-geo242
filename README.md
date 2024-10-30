@@ -19,3 +19,7 @@ Aiden Schmeling
 
 ## Raster Image
 - [Landsat bands](https://github.com/AidenSchmeling/gis-project-portfolio-geo242/blob/main/raster-image/understand-landsat-bands.ipynb)
+
+## Vector Analysis
+- [London Maps](https://github.com/AidenSchmeling/gis-project-portfolio-geo242/blob/main/Vector_Analysis/London_Maps.ipynb)
+- 
