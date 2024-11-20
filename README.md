@@ -22,4 +22,6 @@ Aiden Schmeling
 
 ## Vector Analysis
 - [London Maps](https://github.com/AidenSchmeling/gis-project-portfolio-geo242/blob/main/Vector_Analysis/London_Maps.ipynb)
-- 
+
+## Spatial Analysis
+- [Ohio Renters](https://github.com/AidenSchmeling/gis-project-portfolio-geo242/blob/main/SpatialAnalysis/Copy_of_week_12_assignment_template.ipynb)
