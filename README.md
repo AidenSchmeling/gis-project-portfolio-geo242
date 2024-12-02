@@ -7,15 +7,15 @@ Aiden Schmeling
 - Students can build a repository like this as their project portfolio
 
 ## Basic Mapping
-
 - [First map in QGIS](https://github.com/AidenSchmeling/gis-project-portfolio-geo242/blob/main/basic-mapping/my-first-mapping.ipynb)
 - [Map the age index based on 2000 census data](https://github.com/AidenSchmeling/gis-project-portfolio-geo242/blob/main/basic-mapping/age-index-mapping.ipynb)
 
 ## Map Coordinate Basics
-
 - [Understanding map coordinates](https://github.com/AidenSchmeling/gis-project-portfolio-geo242/blob/main/map-coordinate-basics/understanding-coordinates.ipynb)
 - [Georeference a 1960s Miami University campus map](https://github.com/AidenSchmeling/gis-project-portfolio-geo242/blob/main/map-coordinate-basics/georeferencing.ipynb)
 
+## Selection Queries
+- [Filter for Age](https://github.com/AidenSchmeling/gis-project-portfolio-geo242/blob/main/SelectionsQueries/Copy_of_week_05_assignment_template.ipynb)
 
 ## Raster Image
 - [Landsat bands](https://github.com/AidenSchmeling/gis-project-portfolio-geo242/blob/main/raster-image/understand-landsat-bands.ipynb)
@@ -25,6 +25,10 @@ Aiden Schmeling
 
 ## Spatial Analysis
 - [Ohio Renters](https://github.com/AidenSchmeling/gis-project-portfolio-geo242/blob/main/SpatialAnalysis/Copy_of_week_12_assignment_template.ipynb)
+- [Raster Visualization](https://github.com/AidenSchmeling/gis-project-portfolio-geo242/blob/main/SpatialAnalysis/Copy_of_week_08_assignment_template.ipynb)
+- [Oxford Topography](https://github.com/AidenSchmeling/gis-project-portfolio-geo242/blob/main/SpatialAnalysis/Copy_of_week_09_assignment_template.ipynb)
 
 ## Web-based Mapping
 
+## 3D Printing
+- [Create a Crater](https://github.com/AidenSchmeling/gis-project-portfolio-geo242/blob/main/3DPrinting/Copy_of_week_11_assignment_template.ipynb)
